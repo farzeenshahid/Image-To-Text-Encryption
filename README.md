@@ -1,4 +1,4 @@
-# Project Documentation: Image to Text Encryption 
+# Image to Text Encryption 
 ## 1. Overview: 
 The project aims to encrypt an image into text format using AES encryption and decrypt it back to its 
 original form. It provides a simple user interface for selecting an image file, entering a secret key, and 
@@ -7,8 +7,6 @@ performing encryption/decryption operations.
 <img width="957" alt="1st-ss" src="https://github.com/farzeenshahid/Image-To-Text-Encryption/assets/125720802/c6a55458-50d9-4919-8fc2-6472736c78d9">
 <img width="947" alt="2nd-ss" src="https://github.com/farzeenshahid/Image-To-Text-Encryption/assets/125720802/b08c3e21-5c24-4598-82a4-1ea41d509ac4">
 <img width="947" alt="3rd-ss" src="https://github.com/farzeenshahid/Image-To-Text-Encryption/assets/125720802/4476f0a9-b26e-4ca1-8faa-ea1e714711b4">
-
-
 
 ## 3. Files: 
 + **index.html:** The landing page of the project, displaying project information and team members. 
